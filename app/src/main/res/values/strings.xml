@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AparatAndroidInterview</string>
+    <string name="navigation_bar_movies">Movies</string>
+    <string name="navigation_bar_shows">Shows</string>
+    <string name="toolbar_bar_movies">Popular Movies</string>
+    <string name="toolbar_bar_shows">Popular Shows</string>
+    <string name="navigation_bar_more">More</string>
+    <string name="search_icon_description">search</string>
+    <string name="search">Search</string>
+    <string name="error_fetching_data">Error Fetching data</string>
+    <string name="detail_date">Date: %1$s</string>
+    <string name="detail_genre_place_holder">Genre: %1$s</string>
+</resources>
